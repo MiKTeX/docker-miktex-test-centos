@@ -2,7 +2,7 @@ FROM centos:8
 
 LABEL Description="MiKTeX test environment, CentOS 8"
 LABEL Vendor="Christian Schenk"
-LABEL Version="2.9.7341-1"
+LABEL Version="2.9.7341"
 
 RUN    dnf install -y \
            cmake \
