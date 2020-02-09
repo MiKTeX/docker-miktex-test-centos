@@ -9,6 +9,7 @@ RUN    rpm --import http://mirror.centos.org/centos/RPM-GPG-KEY-CentOS-Official
 RUN    dnf install -y \
            cmake \
            curl \
+	   diffutils \
            ghostscript \
            gpg \
            make \
