@@ -2,7 +2,7 @@ FROM centos:8
 
 LABEL Description="MiKTeX test environment, CentOS 8"
 LABEL Vendor="Christian Schenk"
-LABEL Version="2.9.7341"
+LABEL Version="2.9.7343"
 
 RUN    rpm --import http://mirror.centos.org/centos/RPM-GPG-KEY-CentOS-Official
 
