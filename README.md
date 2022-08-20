@@ -1,6 +1,7 @@
-| :warning: This repository is now unmaintained. Please turn your attention to
-the successor: [Rocky Linux docker image with MiKTeX test
-environment](https://github.com/MiKTeX/docker-miktex-test-rockylinux).
+| :
+warning: This repository is now unmaintained. Please turn your attention to
+the successor:
+[Rocky Linux docker image with MiKTeX test environment](https://github.com/MiKTeX/docker-miktex-test-rockylinux).
 | ---
 
 # CentOS 8 docker image with MiKTeX test environment
